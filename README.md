@@ -34,5 +34,5 @@ the analysis will not show sensitive data like the emails or phone numbers, just
 
 with a Power BI! [dashboard](https://github.com/MohamedSuwan/portfolio/blob/main/images/FB.png?raw=true)
 
-[small](images/fb.png?raw=true)
+[small](/images/fb.png?raw=true)
 
