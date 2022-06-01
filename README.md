@@ -19,8 +19,18 @@ The cleaned csv file.
 Using pandas and matplotlib for fast data analysis and plotting the data in various graphical representations in a way that suits the used data.
 ## Power BI dashboards 
 view the visuals in thr Data Visualization file in an interactive dashboard using power BI
-![dashboard](https://github.com/MohamedSuwan/Weather-Data/blob/main/Power%20Bi%20Android%20View.jpg?raw=true)
+![dashboard]([https://github.com/MohamedSuwan/Weather-Data/blob/main/Power%20Bi%20Android%20View.jpg](https://github.com/MohamedSuwan/Weather-Data/blob/main/weather%20Power%20BI%20Dashboard.pdf)?raw=true)
 
 
+[Leaked Facebook Data Analysis](https://github.com/MohamedSuwan/leaked-FB-data-analysis)
 
+# leaked-FB-data-analysis
+on April 2021 more than half a billion Facebook user's data have been leaked.
+around three million belong to Jordanians.
+
+this repo was made to analyze the data, the data was in a good clean shape, just required some touches and modification.
+
+the analysis will not show sensitive data like the emails or phone numbers, just a simple analysis like phone carrier,email domain,religion and gender.
+
+with a Power BI![dashboard](https://github.com/MohamedSuwan/leaked-FB-data-analysis/blob/main/facebook%20power%20BI.pdf)
 
