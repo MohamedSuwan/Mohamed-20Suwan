@@ -2,26 +2,25 @@
 Projects I've made to illustrate my knowledge in Data Analysis, Python, Automation and Web Scraping
 
 
-https://github.com/MohamedSuwan/Weather-Data
-
-Weather-Data
+[Historical Weather Data Analysis](https://github.com/MohamedSuwan/Weather-Data)
 
 Scrape the historical weather data from a website, clean and modify the data into a .CSV file and visualize the data.
-Web Scraping
-
+## Web Scraping
 A web scraping program that collects the historical hourly weather including temperature, wind direction & speed, air pressure and visibility for a givin year, stores all the data in a format of raws and each raw has a unique date and hour in a text file named the givin year that has been scraped.
-2020.text
-
+## 2020.text
 The scraped file.
-Data Cleansing
-
-Modifying the raw data from 2020.text using regular expression to delete or replace redundant data, measuring units and unwanted data. measuring units helped in figuring out column names. and lastly convert the data into a comma separated values file for better handling.
-weather.csv
-
+## Data Cleansing
+Modifying the raw data from 2020.text using regular expression to delete or replace redundant data, measuring units and unwanted data.
+measuring units helped in figuring out column names.
+and lastly convert the data into a comma separated values file for better handling.
+## weather.csv
 The cleaned csv file.
-Data Visualization
-
+## Data Visualization
 Using pandas and matplotlib for fast data analysis and plotting the data in various graphical representations in a way that suits the used data.
-Power BI dashboards
+## Power BI dashboards 
+view the visuals in thr Data Visualization file in an interactive dashboard using power BI
+![dashboard](https://github.com/MohamedSuwan/Weather-Data/blob/main/Power%20Bi%20Android%20View.jpg?raw=true)
 
-view the visuals in thr Data Visualization file in an interactive dashboard using power BI 
+
+
+
