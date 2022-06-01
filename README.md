@@ -1,5 +1,5 @@
 # Portfolio
-Projects I've made to illustrate my knowledge in Data Analysis, Python, Automation and Web Scraping
+Projects I've made to illustrate my knowledge in Data Analysis, Python, Automation and W
 
 
 [Historical Weather Data Analysis](https://github.com/MohamedSuwan/Weather-Data)
