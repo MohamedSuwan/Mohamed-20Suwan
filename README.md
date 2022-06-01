@@ -33,5 +33,5 @@ this repo was made to analyze the data, the data was in a good clean shape, just
 the analysis will not show sensitive data like the emails or phone numbers, just a simple analysis like phone carrier,email domain,religion and gender.
 
 with a Power BI Dashboard
-![](images/fb.png?raw=true)
+![](images/FB.png?raw=true)
 
