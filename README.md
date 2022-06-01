@@ -19,8 +19,8 @@ The cleaned csv file.
 Using pandas and matplotlib for fast data analysis and plotting the data in various graphical representations in a way that suits the used data.
 ## Power BI dashboards 
 view the visuals in thr Data Visualization file in an interactive dashboard using power BI
-![Desktop View](images/weather desktop.png)
-![Android View](images/weather Android View.jpg)
+![Desktop View](images/wd.png)
+![Android View](images/wa.jpg)
 
 
 #[Leaked Facebook Data Analysis](https://github.com/MohamedSuwan/leaked-FB-data-analysis)
