@@ -18,7 +18,7 @@ useful data for visualization and reporting using pandas and Matplotlib
 
 
 <br>
-<img src='images/wa.jpg' width='300' title="Android View" align="center"> 
+<img src='images/wa.jpg' width='100%' title="Android View" align="middle"> 
 <br>
 
 
