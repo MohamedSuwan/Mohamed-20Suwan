@@ -7,16 +7,20 @@ Selenium
 converting the data into a CSV file for better handling
 * Data Visualization: more cleaning and analysis of the data to get the
 useful data for visualization and reporting using pandas and Matplotlib
-* Power BI Dashboard: telling the story through visuals
+- Power BI Dashboard: telling the story through visuals
+<br>
 ![Desktop View](images/wd.png "Desktop View")
 ![Android View](images/wa.jpg "Android View")
 
 
 
-
+<br>
+<br>
 <hr>
 <hr style="height:10px;background-color:#b5e853">
 <hr>
+<br>
+<br>
 
 [#Leaked Facebook Data Analysis](https://github.com/MohamedSuwan/leaked-FB-data-analysis)
 
@@ -29,11 +33,15 @@ this repo was made to analyze the data, the data was in a good clean shape, just
 the analysis will not show sensitive data like the emails or phone numbers, just a simple analysis like phone carrier,email domain,religion and gender.
 
 with a Power BI Dashboard
+<br>
 ![](images/FB.png "Power BI dashboard for Facebook data")
-
+<br>
+<br>
 <hr>
 <hr style="height:10px;background-color:#b5e853">
 <hr>
+<br>
+<br>
 # Python [](https://github.com/MohamedSuwan/Codewars "Python")
 
 Solutions to problems “katas” from Codewars website, the solutions are written in
@@ -47,11 +55,13 @@ for i in range 20:
   print s
 ```
 
-
+<br>
+<br>
 <hr>
 <hr style="height:10px;background-color:#b5e853">
 <hr>
-
+<br>
+<br>
 
 [#Web Scraping and Automation](https://github.com/MohamedSuwan/Web-Scraping-Automation)
 
