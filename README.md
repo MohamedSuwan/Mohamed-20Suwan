@@ -31,7 +31,7 @@ with a Power BI Dashboard
 
 <hr style="height:5px">
 
-# Python [Python](https://github.com/MohamedSuwan/Codewars "Python")
+# Python [](https://github.com/MohamedSuwan/Codewars "Python")
 
 Solutions to problems “katas” from Codewars website, the solutions are written in
 Python. relied on libraries and researching to come up with solutions. Used
