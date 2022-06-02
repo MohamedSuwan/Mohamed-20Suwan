@@ -1,13 +1,13 @@
 
 [Historical Weather Data Analysis](https://github.com/MohamedSuwan/Weather-Data)
 
--Web Scraping: scraping the historical hourly data from a website using
+- Web Scraping: scraping the historical hourly data from a website using
 Selenium
--Data cleansing: cleaning, modifying using regular expression, and
+- Data cleansing: cleaning, modifying using regular expression, and
 converting the data into a CSV file for better handling
--Data Visualization: more cleaning and analysis of the data to get the
+- Data Visualization: more cleaning and analysis of the data to get the
 useful data for visualization and reporting using pandas and Matplotlib
--Power BI Dashboard: telling the story through visuals
+- Power BI Dashboard: telling the story through visuals
 
 <br>
 
