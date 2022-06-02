@@ -19,9 +19,11 @@ The cleaned csv file.
 Using pandas and matplotlib for fast data analysis and plotting the data in various graphical representations in a way that suits the used data.
 ## Power BI dashboards 
 view the visuals in thr Data Visualization file in an interactive dashboard using power BI
-![Desktop View](images/wd.png)
-![Android View](images/wa.jpg)
+![Desktop View](images/wd.png "Desktop View")
+![Android View](images/wa.jpg "Android View")
 
+Alt-H1
+======
 
 #[Leaked Facebook Data Analysis](https://github.com/MohamedSuwan/leaked-FB-data-analysis)
 
@@ -34,5 +36,5 @@ this repo was made to analyze the data, the data was in a good clean shape, just
 the analysis will not show sensitive data like the emails or phone numbers, just a simple analysis like phone carrier,email domain,religion and gender.
 
 with a Power BI Dashboard
-![](images/FB.png?raw=true)
+![](images/FB.png "Power BI dashboard for Facebook data")
 
