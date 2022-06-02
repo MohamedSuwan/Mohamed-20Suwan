@@ -30,3 +30,9 @@ the analysis will not show sensitive data like the emails or phone numbers, just
 with a Power BI Dashboard
 ![](images/FB.png "Power BI dashboard for Facebook data")
 
+
+```python
+s = "Python syntax highlighting"
+for i in range 20:
+  print s
+```
