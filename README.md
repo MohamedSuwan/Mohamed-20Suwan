@@ -41,6 +41,14 @@ s = "Python syntax highlighting"
 for i in range 20:
   print s
 ```
+ .line{
+width: 112px;
+height: 47px;
+border-bottom: 1px solid black;
+position: absolute;
+}
+
+<div class="line"></div>
 ...........................................................................................................................................................
 
 [#Web Scraping and Automation](https://github.com/MohamedSuwan/Web-Scraping-Automation)
