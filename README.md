@@ -32,7 +32,6 @@ useful data for visualization and reporting using pandas and Matplotlib
 
 # [Leaked Facebook Data Analysis](https://github.com/MohamedSuwan/leaked-FB-data-analysis)
 
-# leaked-FB-data-analysis
 on April 2021 more than half a billion Facebook user's data have been leaked.
 around three million belong to Jordanians.
 
