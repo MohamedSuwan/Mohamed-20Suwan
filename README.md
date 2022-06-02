@@ -12,7 +12,10 @@ useful data for visualization and reporting using pandas and Matplotlib
 <br>
 
 ![Desktop View](images/wd.png "Desktop View")
+<br>
 ![Android View](images/wa.jpg "Android View")
+<br>
+<img src='images/wa.jpg' width='25'>
 
 <br>
 <br>
