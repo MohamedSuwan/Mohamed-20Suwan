@@ -1,5 +1,5 @@
 
-[Historical Weather Data Analysis](https://github.com/MohamedSuwan/Weather-Data)
+# [Historical Weather Data Analysis](https://github.com/MohamedSuwan/Weather-Data "Weather Analysis")
 
 - Web Scraping: scraping the historical hourly data from a website using
 Selenium
@@ -15,7 +15,7 @@ useful data for visualization and reporting using pandas and Matplotlib
 <br>
 ![Android View](images/wa.jpg "Android View")
 <br>
-<img src='images/wa.jpg' width='25'>
+<img src='images/wa.jpg' width='300'>
 
 <br>
 <br>
@@ -25,7 +25,7 @@ useful data for visualization and reporting using pandas and Matplotlib
 <br>
 <br>
 
-[#Leaked Facebook Data Analysis](https://github.com/MohamedSuwan/leaked-FB-data-analysis)
+# [Leaked Facebook Data Analysis](https://github.com/MohamedSuwan/leaked-FB-data-analysis)
 
 # leaked-FB-data-analysis
 on April 2021 more than half a billion Facebook user's data have been leaked.
@@ -47,7 +47,7 @@ with a Power BI Dashboard
 <hr>
 <br>
 <br>
-# Python [](https://github.com/MohamedSuwan/Codewars "Python")
+# [Python](https://github.com/MohamedSuwan/Codewars "Python")
 
 Solutions to problems “katas” from Codewars website, the solutions are written in
 Python. relied on libraries and researching to come up with solutions. Used
@@ -68,7 +68,7 @@ for i in range 20:
 <br>
 <br>
 
-[#Web Scraping and Automation](https://github.com/MohamedSuwan/Web-Scraping-Automation)
+# [Web Scraping and Automation](https://github.com/MohamedSuwan/Web-Scraping-Automation)
 
 scraping different elements from the web, cleaning and organizing the data in different ways and formats.
 
