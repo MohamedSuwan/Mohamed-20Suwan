@@ -36,3 +36,9 @@ s = "Python syntax highlighting"
 for i in range 20:
   print s
 ```
+
+```ipynb
+s = "Python syntax highlighting"
+for i in range 20:
+  print s
+```
