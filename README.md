@@ -14,7 +14,9 @@ useful data for visualization and reporting using pandas and Matplotlib
 
 
 
-<hr style="height:5px">
+<hr>
+<hr style="height:10px;background-color:#70f540">
+<hr>
 
 [#Leaked Facebook Data Analysis](https://github.com/MohamedSuwan/leaked-FB-data-analysis)
 
@@ -29,8 +31,9 @@ the analysis will not show sensitive data like the emails or phone numbers, just
 with a Power BI Dashboard
 ![](images/FB.png "Power BI dashboard for Facebook data")
 
-<hr style="height:5px">
-
+<hr>
+<hr style="height:10px;background-color:#70f540">
+<hr>
 # Python [](https://github.com/MohamedSuwan/Codewars "Python")
 
 Solutions to problems “katas” from Codewars website, the solutions are written in
@@ -46,8 +49,8 @@ for i in range 20:
 
 
 <hr style="height:10px;color:#70f540">
-
 <hr style="height:10px;background-color:#70f540">
+<hr>
 
 
 [#Web Scraping and Automation](https://github.com/MohamedSuwan/Web-Scraping-Automation)
