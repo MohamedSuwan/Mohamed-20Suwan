@@ -11,7 +11,7 @@ useful data for visualization and reporting using pandas and Matplotlib
 ![Desktop View](images/wd.png "Desktop View")
 ![Android View](images/wa.jpg "Android View")
 
-...........................................................................................................................................................
+<hr>
 
 [#Leaked Facebook Data Analysis](https://github.com/MohamedSuwan/leaked-FB-data-analysis)
 
