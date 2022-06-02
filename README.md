@@ -45,9 +45,9 @@ for i in range 20:
 ```
 
 
-<hr style="height:10px">
+<hr style="height:10px;color:#70f540">
 
-<hr style="height:10px ;background-color:gray">
+<hr style="height:10px;background-color:#70f540">
 
 
 [#Web Scraping and Automation](https://github.com/MohamedSuwan/Web-Scraping-Automation)
