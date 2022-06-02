@@ -10,7 +10,7 @@ useful data for visualization and reporting using pandas and Matplotlib
 - Power BI Dashboard: telling the story through visuals
 
 <br>
-<iframe src="notebook/data Visualization.html" title="Weather Notebook" width="100%" height="400">
+<iframe src="notebook/data Visualization.html" title="Weather Notebook" width="100%" height="50%">
 </iframe>
 <br>
 
@@ -43,7 +43,7 @@ the analysis will not show sensitive data like the emails or phone numbers, just
 with a Power BI Dashboard
 
 <br>
-<iframe src="notebook/Jordan FB analysis.html" title="Weather Notebook" width="100%" height="500">
+<iframe src="notebook/Jordan FB analysis.html" title="Weather Notebook" width="100%" height="100%">
 </iframe>
 <br>
 ![](images/FB.png "Power BI dashboard for Facebook data")
