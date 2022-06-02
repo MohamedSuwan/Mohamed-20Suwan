@@ -1,6 +1,3 @@
-# Portfolio
-Projects I've made to illustrate my knowledge in Data Analysis, Python, Automation and W
-
 
 [Historical Weather Data Analysis](https://github.com/MohamedSuwan/Weather-Data)
 
@@ -14,10 +11,9 @@ useful data for visualization and reporting using pandas and Matplotlib
 ![Desktop View](images/wd.png "Desktop View")
 ![Android View](images/wa.jpg "Android View")
 
-Alt-H1
-======
+...........................................................................................................................................................
 
-#[Leaked Facebook Data Analysis](https://github.com/MohamedSuwan/leaked-FB-data-analysis)
+[#Leaked Facebook Data Analysis](https://github.com/MohamedSuwan/leaked-FB-data-analysis)
 
 # leaked-FB-data-analysis
 on April 2021 more than half a billion Facebook user's data have been leaked.
@@ -30,15 +26,25 @@ the analysis will not show sensitive data like the emails or phone numbers, just
 with a Power BI Dashboard
 ![](images/FB.png "Power BI dashboard for Facebook data")
 
+...........................................................................................................................................................
+
+
+![#Python](https://github.com/MohamedSuwan/Codewars "Python")
+
+Solutions to problems “katas” from Codewars website, the solutions are written in
+Python. relied on libraries and researching to come up with solutions. Used
+mathematical theorems, generators, list comprehension, dictionaries, and one-
+liners “Pythonic way”
 
 ```python
 s = "Python syntax highlighting"
 for i in range 20:
   print s
 ```
+...........................................................................................................................................................
 
-```ipynb
-s = "Python syntax highlighting"
-for i in range 20:
-  print s
-```
+[#Web Scraping and Automation](https://github.com/MohamedSuwan/Web-Scraping-Automation)
+
+scraping different elements from the web, cleaning and organizing the data in different ways and formats.
+
+autoamtion like controling the computer, making a macro-like procedures.
