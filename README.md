@@ -17,7 +17,8 @@ useful data for visualization and reporting using pandas and Matplotlib
 
 <img src='images/wa.jpg' width='300' title="Android View" align="center"> 
 <br>
-
+<iframe src="notebooks/data Visualization.html" title="Weather Notebook">
+</iframe>
 
 <br>
 <br>
