@@ -1,13 +1,13 @@
 
 [Historical Weather Data Analysis](https://github.com/MohamedSuwan/Weather-Data)
 
-• Web Scraping: scraping the historical hourly data from a website using
+* Web Scraping: scraping the historical hourly data from a website using
 Selenium
-• Data cleansing: cleaning, modifying using regular expression, and
+* Data cleansing: cleaning, modifying using regular expression, and
 converting the data into a CSV file for better handling
-• Data Visualization: more cleaning and analysis of the data to get the
+* Data Visualization: more cleaning and analysis of the data to get the
 useful data for visualization and reporting using pandas and Matplotlib
-• Power BI Dashboard: telling the story through visuals
+* Power BI Dashboard: telling the story through visuals
 ![Desktop View](images/wd.png "Desktop View")
 ![Android View](images/wa.jpg "Android View")
 
@@ -15,7 +15,7 @@ useful data for visualization and reporting using pandas and Matplotlib
 
 
 <hr>
-<hr style="height:10px;background-color:#70f540">
+<hr style="height:10px;background-color:#b5e853">
 <hr>
 
 [#Leaked Facebook Data Analysis](https://github.com/MohamedSuwan/leaked-FB-data-analysis)
@@ -32,7 +32,7 @@ with a Power BI Dashboard
 ![](images/FB.png "Power BI dashboard for Facebook data")
 
 <hr>
-<hr style="height:10px;background-color:#70f540">
+<hr style="height:10px;background-color:#b5e853">
 <hr>
 # Python [](https://github.com/MohamedSuwan/Codewars "Python")
 
@@ -48,8 +48,8 @@ for i in range 20:
 ```
 
 
-<hr style="height:10px;color:#70f540">
-<hr style="height:10px;background-color:#70f540">
+<hr>
+<hr style="height:10px;background-color:#b5e853">
 <hr>
 
 
