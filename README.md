@@ -13,9 +13,12 @@ useful data for visualization and reporting using pandas and Matplotlib
 
 ![Desktop View](images/wd.png "Desktop View")
 <br>
-![Android View](images/wa.jpg "Android View")
+<img src='images/wa.jpg' width='300' title="Android View"> who the fuck
+are you 
+
+gg
 <br>
-<img src='images/wa.jpg' width='300'>
+
 
 <br>
 <br>
