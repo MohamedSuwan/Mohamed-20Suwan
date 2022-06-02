@@ -43,7 +43,7 @@ the analysis will not show sensitive data like the emails or phone numbers, just
 with a Power BI Dashboard
 
 <br>
-<iframe src="notebook/Jordan FB analysis.html" title="Weather Notebook" width="100%" height="100%">
+<iframe src="notebook/Jordan FB analysis.html" title="Weather Notebook" width="100%" height="400">
 </iframe>
 <br>
 ![](images/FB.png "Power BI dashboard for Facebook data")
