@@ -1,3 +1,13 @@
+ .card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px; /* 5px rounded corners */
+}
+
+/* Add rounded corners to the top left and the top right corner of the image */
+img {
+  border-radius: 5px 5px 0 0;
+}
 
 # [Historical Weather Data Analysis](https://github.com/MohamedSuwan/Weather-Data "Weather Analysis")
 
@@ -81,3 +91,12 @@ for i in range 20:
 scraping different elements from the web, cleaning and organizing the data in different ways and formats.
 
 autoamtion like controling the computer, making a macro-like procedures.
+
+
+ <div class="card">
+  <img src="images/wa.jpg" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4>
+    <p>Architect & Engineer</p>
+  </div>
+</div> 
