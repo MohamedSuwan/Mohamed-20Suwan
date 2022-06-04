@@ -76,7 +76,7 @@ for i in range 20:
 <hr>
 <br>
 <br>
-
+<div class="card">
 # [Web Scraping and Automation](https://github.com/MohamedSuwan/Web-Scraping-Automation)
 
 scraping different elements from the web, cleaning and organizing the data in different ways and formats.
@@ -122,7 +122,7 @@ img {
   </div>
   </a>
 </div>
-
+</div>
 </body>
 </html> 
 
