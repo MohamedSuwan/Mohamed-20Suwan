@@ -79,22 +79,7 @@ for i in range 20:
 <br>
 <br>
 <div class="card">
-# [Web Scraping and Automation](https://github.com/MohamedSuwan/Web-Scraping-Automation)
-
-scraping different elements from the web, cleaning and organizing the data in different ways and formats.
-
-autoamtion like controling the computer, making a macro-like procedures.
-
-
-<div class="card">
-  <a href="https://stackoverflow.com/questions/47229937/make-link-open-on-card-click">
-  <img src="wd.png" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>Jane Doe</b></h4> 
-    <p>Interior Designer</p> 
-  </div>
-  </a>
-</div>
+    scraping="webscraping.html"
 </div>
 
 
