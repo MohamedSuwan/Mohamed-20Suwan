@@ -88,13 +88,13 @@ autoamtion like controling the computer, making a macro-like procedures.
     </h3>
 
 <div class="cardimg">
-  <a href="https://stackoverflow.com/questions/47229937/make-link-open-on-card-click">
+  
   <img src="wd.png" alt="Avatar" class="thumbnail" style="width:100%">
   <div class="container">
     <h4><b>Jane Doe</b></h4> 
     <p>Interior Designer</p> 
   </div>
-  </a>
+ 
 </div>
    
     <br>
