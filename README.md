@@ -114,11 +114,13 @@ img {
 <h2>Round Card</h2>
 
 <div class="card">
+  <a href="https://stackoverflow.com/questions/47229937/make-link-open-on-card-click"
   <img src="wd.png" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Jane Doe</b></h4> 
     <p>Interior Designer</p> 
   </div>
+  </a>
 </div>
 
 </body>
