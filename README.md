@@ -83,10 +83,10 @@ for i in range 20:
 <h1><a href="https://github.com/MohamedSuwan/Web-Scraping-Automation">Web Scraping and Automation</a></h1>
 
 <h3>scraping different elements from the web, cleaning and organizing the data in different ways and formats.
-
+<br>
 autoamtion like controling the computer, making a macro-like procedures.
     </h3>
-
+<center>
 <div class="cardimg">
   
   <img src="wd.png" alt="Avatar" class="thumbnail" style="width:100%">
@@ -96,6 +96,7 @@ autoamtion like controling the computer, making a macro-like procedures.
   </div>
  
 </div>
+    </center>
    
     <br>
     <br>
