@@ -27,7 +27,7 @@ useful data for visualization and reporting using pandas and Matplotlib
 <br>
 <br>
 <hr>
-<hr style="height:10px;background-color:#b5e853">
+<hr style="height:10px;background-color:black">
 <hr>
 <br>
 <br>
