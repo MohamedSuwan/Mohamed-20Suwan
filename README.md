@@ -94,7 +94,7 @@ autoamtion like controling the computer, making a macro-like procedures.
 
 
  <div class="card">
-  <img src="images/wd.jpg" alt="Avatar" style="width:100%">
+  <img src="wd.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>John Doe</b></h4>
     <p>Architect & Engineer</p>
