@@ -38,5 +38,5 @@ cursor: pointer;
 
 /*change the number below to scale to the appropriate size*/ 
 .thumbnail:hover { 
-transform: scale(1); 
+transform: scale(1.5); 
 }
