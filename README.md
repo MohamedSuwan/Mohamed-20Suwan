@@ -91,7 +91,7 @@ autoamtion like controling the computer, making a macro-like procedures.
 .card {
     box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 40%;
+  width: 80%;
   border-radius: 5px;
 }
 
