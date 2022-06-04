@@ -79,13 +79,13 @@ for i in range 20:
 <br>
 <br>
 <div class="card">
-    # [Web Scraping and Automation](https://github.com/MohamedSuwan/Web-Scraping-Automation)
+<h1><a href="https://github.com/MohamedSuwan/Web-Scraping-Automation">Web Scraping and Automation</a></h1>
 
-scraping different elements from the web, cleaning and organizing the data in different ways and formats.
+<h2>scraping different elements from the web, cleaning and organizing the data in different ways and formats.
 
 autoamtion like controling the computer, making a macro-like procedures.
-
-
+    </h2>
+<center>
 <div class="cardimg">
   <a href="https://stackoverflow.com/questions/47229937/make-link-open-on-card-click">
   <img src="wd.png" alt="Avatar" style="width:100%">
@@ -95,6 +95,7 @@ autoamtion like controling the computer, making a macro-like procedures.
   </div>
   </a>
 </div>
+    </center>
 </div>
 
 
