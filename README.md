@@ -1,13 +1,4 @@
- .card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  border-radius: 5px; /* 5px rounded corners */
-}
 
-/* Add rounded corners to the top left and the top right corner of the image */
-img {
-  border-radius: 5px 5px 0 0;
-}
 
 # [Historical Weather Data Analysis](https://github.com/MohamedSuwan/Weather-Data "Weather Analysis")
 
@@ -106,14 +97,14 @@ autoamtion like controling the computer, making a macro-like procedures.
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 8px 8px 0 rgba(ff,ff,ff,0.2);
   transition: 0.3s;
   width: 40%;
   border-radius: 5px;
 }
 
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 16px 16px 0 rgba(77,77,77,0.2);
 }
 
 img {
