@@ -1,4 +1,5 @@
-
+<html>
+  <body>
 <link rel="stylesheet" href=style.css">
 # [Historical Weather Data Analysis](https://github.com/MohamedSuwan/Weather-Data "Weather Analysis")
 
@@ -101,3 +102,5 @@ autoamtion like controling the computer, making a macro-like procedures.
 <br>
 <br>
 <br>
+                        </body>
+                        </html>
