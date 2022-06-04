@@ -13,7 +13,7 @@ useful data for visualization and reporting using pandas and Matplotlib
 - Power BI Dashboard: telling the story through visuals
 
 <br>
-<iframe src="notebook/data Visualization.html" title="Weather Notebook" width="100%" height="350">
+<iframe src="notebook/data Visualization.html" class="thumbnail" title="Weather Notebook" width="100%" height="350">
 </iframe>
 <br>
 
@@ -89,7 +89,7 @@ autoamtion like controling the computer, making a macro-like procedures.
 
 <div class="cardimg">
   <a href="https://stackoverflow.com/questions/47229937/make-link-open-on-card-click">
-  <img src="wd.png" alt="Avatar" style="width:100%">
+  <img src="wd.png" alt="Avatar" class="thumbnail" style="width:100%">
   <div class="container">
     <h4><b>Jane Doe</b></h4> 
     <p>Interior Designer</p> 
