@@ -78,8 +78,7 @@ for i in range 20:
 <hr>
 <br>
 <br>
-<div class="card">
-    scraping="webscraping.html"
+<div class="card" scraping="webscraping.html">
 </div>
 
 
