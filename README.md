@@ -89,7 +89,7 @@ autoamtion like controling the computer, making a macro-like procedures.
 <center>
 <div class="cardimg">
   
-  <img src="wd.png" alt="Avatar" class="thumbnail" style="width:100%">
+  <img src="scraping.gif" alt="Avatar" class="thumbnail" style="width:100%">
   <div class="container">
     <h4><b>Jane Doe</b></h4> 
     <p>Interior Designer</p> 
