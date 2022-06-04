@@ -78,7 +78,7 @@ for i in range 20:
 <hr>
 <br>
 <br>
-<center>
+
 <div class="card">
 <h1><a href="https://github.com/MohamedSuwan/Web-Scraping-Automation">Web Scraping and Automation</a></h1>
 
@@ -100,7 +100,7 @@ autoamtion like controling the computer, making a macro-like procedures.
     <br>
     <br>
 </div>
-     </center>
+     
 
 
 
