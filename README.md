@@ -1,6 +1,7 @@
-<html>
-  <body>
+
 <link rel="stylesheet" href="style.css">
+    
+    
 # [Historical Weather Data Analysis](https://github.com/MohamedSuwan/Weather-Data "Weather Analysis")
 
 - Web Scraping: scraping the historical hourly data from a website using
@@ -102,5 +103,4 @@ autoamtion like controling the computer, making a macro-like procedures.
 <br>
 <br>
 <br>
-                        </body>
-                        </html>
+                        
