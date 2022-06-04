@@ -27,6 +27,37 @@ useful data for visualization and reporting using pandas and Matplotlib
 <br>
 
 
+<div class="card">
+<h1><a href="https://github.com/MohamedSuwan/Weather-Data">Historical Weather Data Analysis</a></h1>
+
+<h3>- Web Scraping: scraping the historical hourly data from a website using
+Selenium
+- Data cleansing: cleaning, modifying using regular expression, and
+converting the data into a CSV file for better handling
+- Data Visualization: more cleaning and analysis of the data to get the
+useful data for visualization and reporting using pandas and Matplotlib
+- Power BI Dashboard: telling the story through visuals
+<br>
+autoamtion like controling the computer, making a macro-like procedures.
+    </h3>
+<center>
+<div class="cardimg">
+  
+  <iframe src="notebook/data Visualization.html" class="thumbnail" title="Weather Notebook" width="100%" height="350">
+</iframe>
+  <div class="container">
+    <h4><b>Jane Doe</b></h4> 
+    <p>Interior Designer</p> 
+  </div>
+ 
+</div>
+    </center>
+   
+    <br>
+    <br>
+</div>
+    
+
 <br>
 <br>
 <hr>
@@ -89,7 +120,7 @@ autoamtion like controling the computer, making a macro-like procedures.
 <center>
 <div class="cardimg">
   
-  <img src="scraping.gif" alt="Avatar" class="thumbnail" style="width:100%">
+  <img src="scraping.gif" alt="gif" class="thumbnail" style="width:100%">
   <div class="container">
     <h4><b>Jane Doe</b></h4> 
     <p>Interior Designer</p> 
