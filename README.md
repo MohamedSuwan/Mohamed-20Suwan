@@ -89,15 +89,16 @@ autoamtion like controling the computer, making a macro-like procedures.
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .card {
-    box-shadow: 0 -1px 8px 0 rgba(0,0,0,1);
+    box-shadow: 0 8px 8px 0 rgba(0,0,0,1);
   transition: 0.3s;
-  width: 80%;
+  width: 50%;
   border-radius: 5px;
 }
 
 .card:hover {
   box-shadow: 0 16px 16px 0 rgba(0,0,0,1);
 }
+
 
 img {
   border-radius: 5px 5px 0 0;
