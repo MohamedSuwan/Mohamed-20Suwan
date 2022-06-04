@@ -84,14 +84,6 @@ scraping different elements from the web, cleaning and organizing the data in di
 autoamtion like controling the computer, making a macro-like procedures.
 
 
- <div class="card">
-  <img src="wd.jpg" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>John Doe</b></h4>
-    <p>Architect & Engineer</p>
-  </div>
-</div> 
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
