@@ -208,6 +208,6 @@ autoamtion like controling the computer, making a macro-like procedures.
 <br>
 <br>
 <br>
-<h3>Thank you for your time ♥ &#10084;&#65039;
+<h3>Thank you for your time  &#10084;&#65039;
 <br>
                         
