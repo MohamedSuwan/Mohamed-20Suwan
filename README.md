@@ -26,8 +26,8 @@ autoamtion like controling the computer, making a macro-like procedures.
   <iframe src="notebook/data Visualization.html" class="thumbnail" title="Weather Notebook" width="100%" height="350">
 </iframe>
   <div class="container">
-    <h4><b>Jane Doe</b></h4> 
-    <p>Interior Designer</p> 
+    <h4><b>Jupyter Notebook</b></h4> 
+      <h4><b>Hover or Click to Enlarge and Scroll Through the Notebook</b></h4>
   </div>
 </div>
       <br>
@@ -35,10 +35,9 @@ autoamtion like controling the computer, making a macro-like procedures.
  <!-- ..................................................................................... sub div 1.2 -->
     
 <div class="cardimg">
-  <img src="wd.png" alt="wd" class="thumbnail" style="width:100%">
+  <img src="wd.png" alt="Desktop" class="thumbnail" style="width:100%">
   <div class="container">
-    <h4><b>Jane Doe</b></h4> 
-    <p>Interior Designer</p> 
+    <h4><b>Power BI Desktop View</b></h4> 
   </div>
 </div>
     <br>
@@ -48,10 +47,9 @@ autoamtion like controling the computer, making a macro-like procedures.
       
       
  <div class="cardimg">
-  <img src="wa.jpg" alt="wd" class="thumbnail" style="width:25%">
+  <img src="wa.jpg" alt="Android" class="thumbnail" style="width:25%">
   <div class="container">
-    <h4><b>Jane Doe</b></h4> 
-    <p>Interior Designer</p> 
+    <h4><b>Power BI Android View</b></h4> 
   </div>
 </div>
     <br>
