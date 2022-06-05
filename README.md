@@ -114,11 +114,15 @@ the analysis will not show sensitive data like the emails or phone numbers, just
 <br>
     </div>
    
-   <br>
- 
- <hr>
+
+ <br>
+<br>
+<hr>
+<br>
+<br>
+
  <!-- ...................................................................................................... third main div -->
- 
+
  <div class="card">
     <br>
 <h1><a href="https://github.com/MohamedSuwan/codewars">&emsp;Python</a></h1>
@@ -157,7 +161,7 @@ The above code is a solution for the triangle inequality theorem which describes
 </h3>
 
 <br>
-
+<br>
 <hr>
 <br>
 <br>
