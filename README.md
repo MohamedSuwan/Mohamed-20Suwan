@@ -4,9 +4,9 @@
 <!-- ...................................................................................................... first main div -->
 
 <div class="card">
-    <div clas="container">
+<br>
 <h1><a href="https://github.com/MohamedSuwan/Weather-Data">Historical Weather Data Analysis</a></h1>
-    </div>
+
 <h3>- Web Scraping: scraping the historical hourly data from a website using
 Selenium
 - Data cleansing: cleaning, modifying using regular expression, and
@@ -70,6 +70,7 @@ autoamtion like controling the computer, making a macro-like procedures.
 <!-- ...................................................................................................... second main div -->
 
 <div class="card">
+    <br>
 <h1><a href="https://github.com/MohamedSuwan/leaked-FB-data-analysis">Leaked Facebook Data Analysis</a></h1>
 
 <h3>- 
@@ -121,6 +122,7 @@ with a Power BI Dashboard
  <!-- ...................................................................................................... third main div -->
  
  <div class="card">
+    <br>
 <h1><a href="https://github.com/MohamedSuwan/codewars">Python</a></h1>
 
 <h3>- 
@@ -160,6 +162,7 @@ The above code is a solution for the triangle inequality theorem which describes
 <br>
 <!-- ...................................................................................................... fourth main div -->
 <div class="card">
+    <br>
 <h1><a href="https://github.com/MohamedSuwan/Web-Scraping-Automation">Web Scraping and Automation</a></h1>
 
 <h3>scraping different elements from the web, cleaning and organizing the data in different ways and formats.
