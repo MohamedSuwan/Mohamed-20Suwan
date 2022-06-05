@@ -4,8 +4,9 @@
 <!-- ...................................................................................................... first main div -->
 
 <div class="card">
+    <div clas="container">
 <h1><a href="https://github.com/MohamedSuwan/Weather-Data">Historical Weather Data Analysis</a></h1>
-
+    </div>
 <h3>- Web Scraping: scraping the historical hourly data from a website using
 Selenium
 - Data cleansing: cleaning, modifying using regular expression, and
