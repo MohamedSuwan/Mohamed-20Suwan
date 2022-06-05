@@ -5,7 +5,7 @@
 
 <div class="card">
 <br>
-<h1><a href="https://github.com/MohamedSuwan/Weather-Data">Historical Weather Data Analysis</a></h1>
+<h1><a href="https://github.com/MohamedSuwan/Weather-Data">    Historical Weather Data Analysis</a></h1>
 
 <h3>- Web Scraping: scraping the historical hourly data from a website using
 Selenium
@@ -71,17 +71,16 @@ autoamtion like controling the computer, making a macro-like procedures.
 
 <div class="card">
     <br>
-<h1><a href="https://github.com/MohamedSuwan/leaked-FB-data-analysis">Leaked Facebook Data Analysis</a></h1>
+<h1><a href="https://github.com/MohamedSuwan/leaked-FB-data-analysis">    Leaked Facebook Data Analysis</a></h1>
 
 <h3>- 
 On April 2021 more than half a billion Facebook user's data have been leaked.
 around three million belong to Jordanians.
-
+<br>
 this repo was made to analyze the data, the data was in a good clean shape, just required some touches and modification.
-
+<br>
 the analysis will not show sensitive data like the emails or phone numbers, just a simple analysis like phone carrier,email domain,religion and gender.
 
-with a Power BI Dashboard
 </h3>
 
  <!-- ...................................................................................... sub div 2.1 -->
@@ -90,11 +89,10 @@ with a Power BI Dashboard
       
 <div class="cardimg">
   
-  <iframe src="notebook/Jordan FB analysis.html" class="thumbnail" title="Facebook notebook" width="100%" height="350">
+  <iframe src="notebook/Jordan FB analysis.html" class="thumbnail" title="Facebook notebook" width="100%" height="350" style="border:0-moz-border-radius: 10px;border-radius: 10px;">
 </iframe>
   <div class="container">
-    <h4><b>Jane Doe</b></h4> 
-    <p>Interior Designer</p> 
+    <h4><b>Facebook data analysis Notebook</b></h4> 
   </div>
 </div>
       <br>
@@ -105,8 +103,8 @@ with a Power BI Dashboard
    <div class="cardimg">
   <img src="images/FB.png" alt="Facebook BI" class="thumbnail" style="width:100%">
   <div class="container">
-    <h4><b>Jane Doe</b></h4> 
-    <p>Interior Designer</p> 
+    <h4><b>Power Bi Dashboard</b></h4> 
+
   </div>
 </div>
     <br>
@@ -123,12 +121,13 @@ with a Power BI Dashboard
  
  <div class="card">
     <br>
-<h1><a href="https://github.com/MohamedSuwan/codewars">Python</a></h1>
+<h1><a href="https://github.com/MohamedSuwan/codewars">    Python</a></h1>
 
 <h3>- 
 Solutions to problems “katas” from Codewars website, the solutions are written in
-Python. relied on libraries and researching to come up with solutions. Used
-mathematical theorems, generators, list comprehension, dictionaries, and one-
+Python. relied on libraries and researching to come up with solutions.
+<br>
+Used mathematical theorems, generators, list comprehension, dictionaries, and one-
 liners “Pythonic way”
     
 
@@ -153,7 +152,9 @@ def is_triangle(a, b, c):
     else:
         return False
 ```
+<h3>
 The above code is a solution for the triangle inequality theorem which describes the relationship between the three sides of a triangle. According to this theorem, for any triangle, the sum of lengths of two sides is always greater than the third side
+</h3>
 
 <br>
 
@@ -163,7 +164,7 @@ The above code is a solution for the triangle inequality theorem which describes
 <!-- ...................................................................................................... fourth main div -->
 <div class="card">
     <br>
-<h1><a href="https://github.com/MohamedSuwan/Web-Scraping-Automation">Web Scraping and Automation</a></h1>
+<h1><a href="https://github.com/MohamedSuwan/Web-Scraping-Automation">    Web Scraping and Automation</a></h1>
 
 <h3>scraping different elements from the web, cleaning and organizing the data in different ways and formats.
 <br>
@@ -175,8 +176,8 @@ autoamtion like controling the computer, making a macro-like procedures.
   
   <img src="scraping.gif" alt="gif" class="thumbnail" style="width:100%">
   <div class="container">
-    <h4><b>Jane Doe</b></h4> 
-    <p>Interior Designer</p> 
+    <h4><b>GIF Showing Web Scrapin In Action </b></h4> 
+    
   </div>
  
 </div>
