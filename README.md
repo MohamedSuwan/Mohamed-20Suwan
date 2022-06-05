@@ -112,23 +112,19 @@ with a Power BI Dashboard
     <br>
     <br> 
     </center>
-    
-    
-    
-<br>
-<iframe src="notebook/Jordan FB analysis.html" title="Weather Notebook" width="100%" height="350">
-</iframe>
-<br>
-![](images/FB.png "Power BI dashboard for Facebook data")
-<br>
-<br>
-<hr>
-<hr style="height:10px;background-color:#b5e853">
-<hr>
-<br>
-<br>
-# [Python](https://github.com/MohamedSuwan/Codewars "Python")
 
+<br>
+    </div>
+   
+   <br>
+ 
+ 
+ <!-- ...................................................................................................... third main div -->
+ 
+ <div class="card">
+<h1><a href="https://github.com/MohamedSuwan/codewars">Python</a></h1>
+
+<h3>- 
 Solutions to problems “katas” from Codewars website, the solutions are written in
 Python. relied on libraries and researching to come up with solutions. Used
 mathematical theorems, generators, list comprehension, dictionaries, and one-
@@ -139,15 +135,16 @@ s = "Python syntax highlighting"
 for i in range 20:
   print s
 ```
+</h3>
+ 
 
 <br>
 <br>
-<hr>
-<hr style="height:10px;background-color:#b5e853">
-<hr>
-<br>
-<br>
 
+<hr>
+<br>
+<br>
+<!-- ...................................................................................................... fourth main div -->
 <div class="card">
 <h1><a href="https://github.com/MohamedSuwan/Web-Scraping-Automation">Web Scraping and Automation</a></h1>
 
@@ -156,6 +153,7 @@ for i in range 20:
 autoamtion like controling the computer, making a macro-like procedures.
     </h3>
 <center>
+<!-- ...................................................................................... sub div 4.1 -->
 <div class="cardimg">
   
   <img src="scraping.gif" alt="gif" class="thumbnail" style="width:100%">
