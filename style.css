@@ -40,3 +40,16 @@ cursor: pointer;
 .thumbnail:hover { 
 transform: scale(1.5); 
 }
+
+
+a {
+  color: #13bf00;
+  font-family: helvetica;
+  text-decoration: none;
+
+}
+
+a:hover {
+  text-decoration: underline;
+    color: #19fa00;
+}
