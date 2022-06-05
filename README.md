@@ -129,20 +129,31 @@ Solutions to problems “katas” from Codewars website, the solutions are writt
 Python. relied on libraries and researching to come up with solutions. Used
 mathematical theorems, generators, list comprehension, dictionaries, and one-
 liners “Pythonic way”
+    
 
 </h3>
  <br>
 
 <br>
     
-```python
-s = "Python syntax highlighting"
-for i in range 20:
-  print s
-```
+
     
 </div>
 <br>
+```python
+from typing import Counter
+
+def is_triangle(a, b, c):
+    tl=(sorted([a,b,c]))
+    if not(any(tl)>1):
+        if tl[0]+tl[1]>tl[2]:
+            return True
+        else:
+            return False
+    else:
+        return False
+```
+The above code is a solution for the triangle inequality theorem which describes the relationship between the three sides of a triangle. According to this theorem, for any triangle, the sum of lengths of two sides is always greater than the third side
 <br>
 
 <hr>
