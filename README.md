@@ -43,7 +43,8 @@ autoamtion like controling the computer, making a macro-like procedures.
     </h3>
 
 <!-- ...................................................................................................... sub div 1.1 -->
-    
+  <center>  
+      
 <div class="cardimg">
   
   <iframe src="notebook/data Visualization.html" class="thumbnail" title="Weather Notebook" width="100%" height="350">
@@ -54,19 +55,30 @@ autoamtion like controling the computer, making a macro-like procedures.
   </div>
  
 </div>
+      <br>
+    <br>
+ <!-- ...................................................................................................... sub div 1.2 -->
     
-    <center>
 <div class="cardimg">
-  
   <img src="wd.png" alt="wd" class="thumbnail" style="width:100%">
   <div class="container">
     <h4><b>Jane Doe</b></h4> 
     <p>Interior Designer</p> 
   </div>
- 
 </div>
-    </center>
-   
+    <br>
+    <br>
+      
+ <!-- ...................................................................................................... sub div 1.3 -->
+      
+      
+ <div class="cardimg">
+  <img src="wa.jpg" alt="wd" class="thumbnail" style="width:300">
+  <div class="container">
+    <h4><b>Jane Doe</b></h4> 
+    <p>Interior Designer</p> 
+  </div>
+</div>
     <br>
     <br>
     </center>
