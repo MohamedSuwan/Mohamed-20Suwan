@@ -6,6 +6,15 @@
 <div class="card">
 <br>
 <h1><a href="https://github.com/MohamedSuwan/Weather-Data">Historical Weather Data Analysis</a></h1>
+ 
+ <h3>
+As an avid gardener I had to know the best time of year for agricultural activites, for example when grafting citrus trees, the best temperature at which citrus wounds heal is between (21°C and 29°C) according to fruitmentor.com.
+
+knowing what the temperature and weather is like where I live gives me an idea in what I can or can't plant, graft, grow. I cant grow mangoes where i live because mango are freeze sensitive and requires humid and warm weather all year round. 
+  
+ 
+ </h3>
+ 
 <h3>
  <ul>
   <li>Web Scraping: scraping the historical hourly data from a website using
