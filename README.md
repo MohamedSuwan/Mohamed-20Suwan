@@ -144,7 +144,13 @@ liners “Pythonic way”
     
 </div>
 <br>
-
+```python
+import re
+def is_pangram(s):
+    return len(set(re.findall("[a-z]",s.lower())))==26
+```
+<h3>the code above checks if the given sentence is pangram or not -meaning does the sentence contain all the letters in a language- ; first the letters are converted to all lower case, then only the letters are taken from this sentence into a list, we can get unique values by using set, finally if the unique values count is 26 then it is a pangram.
+    </h3>
 ```python
 def is_triangle(a, b, c):
     tl=(sorted([a,b,c]))
@@ -157,7 +163,7 @@ def is_triangle(a, b, c):
         return False
 ```
 <h3>
-The above code is a solution for the triangle inequality theorem which describes the relationship between the three sides of a triangle. According to this theorem, for any triangle, the sum of lengths of two sides is always greater than the third side
+This code is a solution for the triangle inequality theorem which describes the relationship between the three sides of a triangle. According to this theorem, for any triangle, the sum of lengths of two sides is always greater than the third side
 </h3>
 
 <br>
