@@ -1,6 +1,6 @@
 
 <link rel="stylesheet" href="style.css">
-    
+#................................................................................................first div    
     
 # [Historical Weather Data Analysis](https://github.com/MohamedSuwan/Weather-Data "Weather Analysis")
 
@@ -51,6 +51,21 @@ autoamtion like controling the computer, making a macro-like procedures.
   </div>
  
 </div>
+    
+    <center>
+<div class="cardimg">
+  
+  <img src="wd.png" alt="wd" class="thumbnail" style="width:100%">
+  <div class="container">
+    <h4><b>Jane Doe</b></h4> 
+    <p>Interior Designer</p> 
+  </div>
+ 
+</div>
+    </center>
+   
+    <br>
+    <br>
     </center>
    
     <br>
