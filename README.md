@@ -1,6 +1,6 @@
 
 <link rel="stylesheet" href="style.css">
-#................................................................................................first div    
+<!-- ...................................................................................................... first main div -->   
     
 # [Historical Weather Data Analysis](https://github.com/MohamedSuwan/Weather-Data "Weather Analysis")
 
@@ -11,6 +11,7 @@ converting the data into a CSV file for better handling
 - Data Visualization: more cleaning and analysis of the data to get the
 useful data for visualization and reporting using pandas and Matplotlib
 - Power BI Dashboard: telling the story through visuals
+<!-- ...................................................................................................... sub div 1.1 -->   
 
 <br>
 <iframe src="notebook/data Visualization.html" class="thumbnail" title="Weather Notebook" width="100%" height="350">
@@ -22,11 +23,11 @@ useful data for visualization and reporting using pandas and Matplotlib
 
 <br>
 <center>
-<img src='images/wa.jpg' width='300' title="Android View" align="middle"> 
+<img src='images/wa.jpg' width='300' title="Android View" > 
 </center>
 <br>
 
-
+<!-- ...................................................................................................... first main div -->
 <div class="card">
 <h1><a href="https://github.com/MohamedSuwan/Weather-Data">Historical Weather Data Analysis</a></h1>
 
@@ -40,7 +41,9 @@ useful data for visualization and reporting using pandas and Matplotlib
 <br>
 autoamtion like controling the computer, making a macro-like procedures.
     </h3>
-<center>
+
+<!-- ...................................................................................................... sub div 1.1 -->
+    
 <div class="cardimg">
   
   <iframe src="notebook/data Visualization.html" class="thumbnail" title="Weather Notebook" width="100%" height="350">
