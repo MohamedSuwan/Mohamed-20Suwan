@@ -85,6 +85,7 @@ this repo was made to analyze the data, the data was in a good clean shape, just
 the analysis will not show sensitive data like the emails or phone numbers, just a simple analysis like phone carrier,email domain,religion and gender.
 
 </h3>
+ <br>
 
  <!-- ...................................................................................... sub div 2.1 -->
 
@@ -183,6 +184,7 @@ This code is a solution for the triangle inequality theorem which describes the 
 <br>
 autoamtion like controling the computer, making a macro-like procedures.
     </h3>
+ <br>
 <center>
 <!-- ...................................................................................... sub div 4.1 -->
 <div class="cardimg">
