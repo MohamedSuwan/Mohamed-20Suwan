@@ -131,14 +131,17 @@ mathematical theorems, generators, list comprehension, dictionaries, and one-
 liners “Pythonic way”
 
 </h3>
- 
-</div>
+ <br>
+
 <br>
+    
 ```python
 s = "Python syntax highlighting"
 for i in range 20:
   print s
 ```
+    
+</div>
 <br>
 <br>
 
