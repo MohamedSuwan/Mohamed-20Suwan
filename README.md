@@ -91,7 +91,7 @@ useful data for visualization and reporting using pandas and Matplotlib</li>
 On April 2021 the data of more than half a billion Facebook user from 106 countries have been leaked, around three million belong to Jordanians, the data was puublished on a hacking forum and Facebook said the data was old, from a previously reported leak in 2019. It has denied any wrongdoing, saying that the data was scraped from publicly available information on the site!
 <br>
 <br>
-Although the sample is huge it doesn't reflect the real world some aspects, males are two times the females and there's apattern for birthdays growing almost exponentially with birthdays that ocuured in 1995 being at the top, maybe there was a pattern in how the data was leaked.
+Although the sample is huge it doesn't reflect the real world in some aspects, males are two times the females and there's apattern for birthdays growing almost exponentially with birthdays that ocuured in 1995 being at the top, maybe there was a pattern in how the data was leaked.
  
  <br>
  Mohamed is the most common name, which is highly likely considering Mohamed is one of the most common names worldwide, most used carrier is Zain at 46.6%, what i find hard to believe is that Yahoo is the top email domain name.
@@ -100,7 +100,7 @@ Although the sample is huge it doesn't reflect the real world some aspects, male
 This repo was made to analyze the data, the data was in a good clean shape mostly, just required some touches and modification.
 <br>
  <br>
-the exp;pratory analysis will not show sensitive data like the emails or phone numbers, just a simple analysis like phone carrier,email domain,religion and gender.
+the exploratory analysis will not show sensitive data like the emails or phone numbers, just a simple analysis like phone carrier,email domain,religion and gender.
 
 </h3>
  <br>
@@ -149,13 +149,15 @@ the exp;pratory analysis will not show sensitive data like the emails or phone n
     <br>
 <h1><a href="https://github.com/MohamedSuwan/codewars">Python</a></h1>
 
-<h3>- 
-Solutions to problems “katas” from Codewars website, the solutions are written in
+<h3>
+this repository contains solutions to problems “katas” from Codewars website, the solutions are written in
 Python. relied on libraries and researching to come up with solutions.
 <br>
+ <br>
 Used mathematical theorems, generators, list comprehension, dictionaries, and one-
 liners “Pythonic way”
-    
+    <br>
+ 
 
 </h3>
  <br>
@@ -198,9 +200,14 @@ This code is a solution for the triangle inequality theorem which describes the 
     <br>
 <h1><a href="https://github.com/MohamedSuwan/Web-Scraping-Automation">Web Scraping and Automation</a></h1>
 
-<h3>scraping different elements from the web, cleaning and organizing the data in different ways and formats.
+<h3>scraping different content,data and elements from the web quickly and efficiently, cleaning and organizing the data in different ways and formats.
 <br>
-autoamtion like controling the computer, making a macro-like procedures.
+ <br>
+Autoamtion, controlling the computer, mouse, keyboard, making a macro-like procedures with minimal human intervention.
+ <br>
+ <br>
+ The gif below is an axample of web scraping it is the execution of <a href="https://github.com/MohamedSuwan/Web-Scraping-Automation/blob/main/historical%20wether%20data.py">this</a> code, where the program collects all the data for a whole year.
+ 
     </h3>
  <br>
 <center>
