@@ -9,7 +9,7 @@
  
  <h3>
 As an avid gardener I had to know the best time of year for agricultural activites, for example when grafting citrus trees, the best temperature at which citrus wounds heal is between (21°C and 29°C) according to fruitmentor.com<br>
-
+<br>
 knowing what the temperature and weather is like where I live gives me an idea in what I can or can't plant, graft, grow. I cant grow mangoes where i live because mangoes are freeze sensitive and require humid and warm weather all year round
   
  <br>
@@ -87,13 +87,20 @@ useful data for visualization and reporting using pandas and Matplotlib</li>
     <br>
 <h1><a href="https://github.com/MohamedSuwan/leaked-FB-data-analysis">Leaked Facebook Data Analysis</a></h1>
 
-<h3>- 
-On April 2021 more than half a billion Facebook user's data have been leaked.
-around three million belong to Jordanians.
+<h3>
+On April 2021 the data of more than half a billion Facebook user from 106 countries have been leaked, around three million belong to Jordanians, the data was puublished on a hacking forum and Facebook said the data was old, from a previously reported leak in 2019. It has denied any wrongdoing, saying that the data was scraped from publicly available information on the site!
 <br>
-this repo was made to analyze the data, the data was in a good clean shape, just required some touches and modification.
 <br>
-the analysis will not show sensitive data like the emails or phone numbers, just a simple analysis like phone carrier,email domain,religion and gender.
+Although the sample is huge it doesn't reflect the real world some aspects, males are two times the females and there's apattern for birthdays growing almost exponentially with birthdays that ocuured in 1995 being at the top, maybe there was a pattern in how the data was leaked.
+ 
+ <br>
+ Mohamed is the most common name, which is highly likely considering Mohamed is one of the most common names worldwide, most used carrier is Zain at 46.6%, what i find hard to believe is that Yahoo is the top email domain name.
+ <br>
+ <br>
+This repo was made to analyze the data, the data was in a good clean shape mostly, just required some touches and modification.
+<br>
+ <br>
+the exp;pratory analysis will not show sensitive data like the emails or phone numbers, just a simple analysis like phone carrier,email domain,religion and gender.
 
 </h3>
  <br>
