@@ -5,7 +5,7 @@
 
 <div class="card">
 <br>
-<h1>&emsp;<a href="https://github.com/MohamedSuwan/Weather-Data">Historical Weather Data Analysis</a></h1>
+<h1><a href="https://github.com/MohamedSuwan/Weather-Data">Historical Weather Data Analysis</a></h1>
 
 <h3>- Web Scraping: scraping the historical hourly data from a website using
 Selenium
@@ -71,7 +71,7 @@ autoamtion like controling the computer, making a macro-like procedures.
 
 <div class="card">
     <br>
-<h1>&emsp;<a href="https://github.com/MohamedSuwan/leaked-FB-data-analysis">Leaked Facebook Data Analysis</a></h1>
+<h1><a href="https://github.com/MohamedSuwan/leaked-FB-data-analysis">Leaked Facebook Data Analysis</a></h1>
 
 <h3>- 
 On April 2021 more than half a billion Facebook user's data have been leaked.
@@ -168,7 +168,7 @@ The above code is a solution for the triangle inequality theorem which describes
 <!-- ...................................................................................................... fourth main div -->
 <div class="card">
     <br>
-<h1><a href="https://github.com/MohamedSuwan/Web-Scraping-Automation">&emsp;Web Scraping and Automation</a></h1>
+<h1><a href="https://github.com/MohamedSuwan/Web-Scraping-Automation">Web Scraping and Automation</a></h1>
 
 <h3>scraping different elements from the web, cleaning and organizing the data in different ways and formats.
 <br>
