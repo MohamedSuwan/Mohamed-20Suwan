@@ -41,15 +41,17 @@ cursor: pointer;
 transform: scale(1.5); 
 }
 
-
-a {
-  color: #13bf00;
-  font-family: helvetica;
-  text-decoration: none;
-
+h1 {
+    margin-left: 30px;
 }
+
+
+h3 {
+    margin-left: 30px;
+}
+
 
 a:hover {
   text-decoration: underline;
-    color: #19fa00;
+    color: #0800ff;
 }
