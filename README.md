@@ -23,7 +23,7 @@ autoamtion like controling the computer, making a macro-like procedures.
       
 <div class="cardimg">
   
-  <iframe src="notebook/data Visualization.html" class="thumbnail" title="Weather Notebook" width="100%" height="350" style="border:0-moz-border-radius: 15px;border-radius: 15px;">
+  <iframe src="notebook/data Visualization.html" class="thumbnail" title="Weather Notebook" width="100%" height="350" style="border:0-moz-border-radius: 10px;border-radius: 10px;">
 </iframe>
   <div class="container">
     <h4><b>Jupyter Notebook</b></h4> 
