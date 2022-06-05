@@ -1,33 +1,8 @@
 
 <link rel="stylesheet" href="style.css">
-<!-- ...................................................................................................... first main div -->   
-    
-# [Historical Weather Data Analysis](https://github.com/MohamedSuwan/Weather-Data "Weather Analysis")
-
-- Web Scraping: scraping the historical hourly data from a website using
-Selenium
-- Data cleansing: cleaning, modifying using regular expression, and
-converting the data into a CSV file for better handling
-- Data Visualization: more cleaning and analysis of the data to get the
-useful data for visualization and reporting using pandas and Matplotlib
-- Power BI Dashboard: telling the story through visuals
-<!-- ...................................................................................................... sub div 1.1 -->   
-
-<br>
-<iframe src="notebook/data Visualization.html" class="thumbnail" title="Weather Notebook" width="100%" height="350">
-</iframe>
-<br>
-
-![Desktop View](images/wd.png "Desktop View")
-
-
-<br>
-<center>
-<img src='images/wa.jpg' width='300' title="Android View" > 
-</center>
-<br>
 
 <!-- ...................................................................................................... first main div -->
+
 <div class="card">
 <h1><a href="https://github.com/MohamedSuwan/Weather-Data">Historical Weather Data Analysis</a></h1>
 
@@ -42,7 +17,7 @@ useful data for visualization and reporting using pandas and Matplotlib
 autoamtion like controling the computer, making a macro-like procedures.
     </h3>
 
-<!-- ...................................................................................................... sub div 1.1 -->
+<!-- ....................................................................................... sub div 1.1 -->
   <center>  
       
 <div class="cardimg">
@@ -53,11 +28,10 @@ autoamtion like controling the computer, making a macro-like procedures.
     <h4><b>Jane Doe</b></h4> 
     <p>Interior Designer</p> 
   </div>
- 
 </div>
       <br>
     <br>
- <!-- ...................................................................................................... sub div 1.2 -->
+ <!-- ..................................................................................... sub div 1.2 -->
     
 <div class="cardimg">
   <img src="wd.png" alt="wd" class="thumbnail" style="width:100%">
@@ -69,11 +43,11 @@ autoamtion like controling the computer, making a macro-like procedures.
     <br>
     <br>
       
- <!-- ...................................................................................................... sub div 1.3 -->
+ <!-- ...................................................................................... sub div 1.3 -->
       
       
  <div class="cardimg">
-  <img src="wa.jpg" alt="wd" class="thumbnail" style="width:300">
+  <img src="wa.jpg" alt="wd" class="thumbnail" style="width:25%">
   <div class="container">
     <h4><b>Jane Doe</b></h4> 
     <p>Interior Designer</p> 
@@ -82,7 +56,6 @@ autoamtion like controling the computer, making a macro-like procedures.
     <br>
     <br>
     </center>
-   
     <br>
     <br>
 </div>
@@ -91,14 +64,17 @@ autoamtion like controling the computer, making a macro-like procedures.
 <br>
 <br>
 <hr>
-<hr style="height:10px;background-color:black">
-<hr>
 <br>
 <br>
 
-# [Leaked Facebook Data Analysis](https://github.com/MohamedSuwan/leaked-FB-data-analysis)
 
-on April 2021 more than half a billion Facebook user's data have been leaked.
+<!-- ...................................................................................................... second main div -->
+
+<div class="card">
+<h1><a href="https://github.com/MohamedSuwan/leaked-FB-data-analysis">Leaked Facebook Data Analysis</a></h1>
+
+<h3>- 
+On April 2021 more than half a billion Facebook user's data have been leaked.
 around three million belong to Jordanians.
 
 this repo was made to analyze the data, the data was in a good clean shape, just required some touches and modification.
@@ -106,7 +82,39 @@ this repo was made to analyze the data, the data was in a good clean shape, just
 the analysis will not show sensitive data like the emails or phone numbers, just a simple analysis like phone carrier,email domain,religion and gender.
 
 with a Power BI Dashboard
+</h3>
 
+ <!-- ...................................................................................... sub div 2.1 -->
+
+      <center>  
+      
+<div class="cardimg">
+  
+  <iframe src="notebook/Jordan FB analysis.html" class="thumbnail" title="Facebook notebook" width="100%" height="350">
+</iframe>
+  <div class="container">
+    <h4><b>Jane Doe</b></h4> 
+    <p>Interior Designer</p> 
+  </div>
+</div>
+      <br>
+    <br>
+    
+  <!-- ...................................................................................... sub div 2.2 -->
+          
+   <div class="cardimg">
+  <img src="images/FB.png" alt="Facebook BI" class="thumbnail" style="width:100%">
+  <div class="container">
+    <h4><b>Jane Doe</b></h4> 
+    <p>Interior Designer</p> 
+  </div>
+</div>
+    <br>
+    <br> 
+    </center>
+    
+    
+    
 <br>
 <iframe src="notebook/Jordan FB analysis.html" title="Weather Notebook" width="100%" height="350">
 </iframe>
