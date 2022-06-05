@@ -6,16 +6,19 @@
 <div class="card">
 <br>
 <h1><a href="https://github.com/MohamedSuwan/Weather-Data">Historical Weather Data Analysis</a></h1>
+<h3>
+ <ul>
+  <li>Web Scraping: scraping the historical hourly data from a website using
+Selenium</li>
+  <li>Data cleansing: cleaning, modifying using regular expression, and
+converting the data into a CSV file for better handling</li>
+  <li>Data Visualization: more cleaning and analysis of the data to get the
+useful data for visualization and reporting using pandas and Matplotlib</li>
+  <li>Power BI Dashboard: telling the story through visuals</li>
+</ul> 
+ 
 
-<h3>- Web Scraping: scraping the historical hourly data from a website using
-Selenium
-- Data cleansing: cleaning, modifying using regular expression, and
-converting the data into a CSV file for better handling
-- Data Visualization: more cleaning and analysis of the data to get the
-useful data for visualization and reporting using pandas and Matplotlib
-- Power BI Dashboard: telling the story through visuals
 <br>
-autoamtion like controling the computer, making a macro-like procedures.
     </h3>
 
 <!-- ....................................................................................... sub div 1.1 -->
