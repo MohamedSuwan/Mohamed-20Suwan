@@ -8,11 +8,13 @@
 <h1><a href="https://github.com/MohamedSuwan/Weather-Data">Historical Weather Data Analysis</a></h1>
  
  <h3>
-As an avid gardener I had to know the best time of year for agricultural activites, for example when grafting citrus trees, the best temperature at which citrus wounds heal is between (21°C and 29°C) according to fruitmentor.com.
+As an avid gardener I had to know the best time of year for agricultural activites, for example when grafting citrus trees, the best temperature at which citrus wounds heal is between (21°C and 29°C) according to fruitmentor.com<br>
 
-knowing what the temperature and weather is like where I live gives me an idea in what I can or can't plant, graft, grow. I cant grow mangoes where i live because mango are freeze sensitive and requires humid and warm weather all year round. 
+knowing what the temperature and weather is like where I live gives me an idea in what I can or can't plant, graft, grow. I cant grow mangoes where i live because mangoes are freeze sensitive and require humid and warm weather all year round
   
- 
+ <br>
+  <br>
+  The following are the steps I took to make this project from aquiring the data to visualizing
  </h3>
  
 <h3>
@@ -38,7 +40,7 @@ useful data for visualization and reporting using pandas and Matplotlib</li>
   <iframe src="notebook/data Visualization.html" class="thumbnail" title="Weather Notebook" width="100%" height="350" style="border:0-moz-border-radius: 10px;border-radius: 10px;">
 </iframe>
   <div class="container">
-    <h4><b>Jupyter Notebook</b></h4> 
+    <h4><b>Weather Analysis Jupyter Notebook</b></h4> 
       <h4><b>Hover or Click to Enlarge and Scroll Through the Notebook</b></h4>
   </div>
 </div>
@@ -67,8 +69,8 @@ useful data for visualization and reporting using pandas and Matplotlib</li>
     <br>
     <br>
     </center>
-    <br>
-    <br>
+   
+   
 </div>
     
 
