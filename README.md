@@ -142,7 +142,6 @@ liners “Pythonic way”
 <br>
 
 ```python
-from typing import Counter
 def is_triangle(a, b, c):
     tl=(sorted([a,b,c]))
     if not(any(tl)>1):
