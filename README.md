@@ -140,9 +140,9 @@ liners “Pythonic way”
     
 </div>
 <br>
+
 ```python
 from typing import Counter
-
 def is_triangle(a, b, c):
     tl=(sorted([a,b,c]))
     if not(any(tl)>1):
@@ -154,6 +154,7 @@ def is_triangle(a, b, c):
         return False
 ```
 The above code is a solution for the triangle inequality theorem which describes the relationship between the three sides of a triangle. According to this theorem, for any triangle, the sum of lengths of two sides is always greater than the third side
+
 <br>
 
 <hr>
