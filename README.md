@@ -166,13 +166,12 @@ liners “Pythonic way”
   <!-- ...................................................................................... sub div 3.1 -->
 ................................................
  <div class="cardimg">
-  <!-- HTML generated using hilite.me --><div style="background: #272822; overflow:auto;width:auto;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #f92672">import</span> <span style="color: #f8f8f2">re</span>
+  <!-- HTML generated using hilite.me --><div style="background: #272822; overflow:auto;width:auto"><pre style="margin: 0; line-height: 125%"><span style="color: #f92672">import</span> <span style="color: #f8f8f2">re</span>
 <span style="color: #66d9ef">def</span> <span style="color: #a6e22e">is_pangram</span><span style="color: #f8f8f2">(s):</span>
     <span style="color: #66d9ef">return</span> <span style="color: #f8f8f2">len(set(re</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">findall(</span><span style="color: #e6db74">&quot;[a-z]&quot;</span><span style="color: #f8f8f2">,s</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">lower())))</span><span style="color: #f92672">==</span><span style="color: #ae81ff">26</span>
 </pre></div>
  </div>
 
- ...............................................
   <!-- ...................................................................................... sub div 3.2 -->
   <div class="cardimg">
  <!-- HTML generated using hilite.me --><div style="background: #272822; overflow:auto;width:auto"><pre style="margin: 0; line-height: 125%"><span style="color: #66d9ef">def</span> <span style="color: #a6e22e">is_triangle</span><span style="color: #f8f8f2">(a,</span> <span style="color: #f8f8f2">b,</span> <span style="color: #f8f8f2">c):</span>
