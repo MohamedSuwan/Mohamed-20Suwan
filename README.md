@@ -164,7 +164,7 @@ liners “Pythonic way”
 
 <br>
   <!-- ...................................................................................... sub div 3.1 -->
-<center>
+
  <div class="cardimg">
   <!-- HTML generated using hilite.me --><div style="background: #272822; overflow:auto;width:auto;border:0-moz-border-radius: 10px;border-radius: 10px"><pre style="margin: 0; line-height: 125%"><span style="color: #f92672">import</span> <span style="color: #f8f8f2">re</span>
 <span style="color: #66d9ef">def</span> <span style="color: #a6e22e">is_pangram</span><span style="color: #f8f8f2">(s):</span>
@@ -196,7 +196,7 @@ liners “Pythonic way”
  
   <br>
     
-
+</div>
 
 
 
