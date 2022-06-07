@@ -171,8 +171,8 @@ liners “Pythonic way”
     <span style="color: #66d9ef">return</span> <span style="color: #f8f8f2">len(set(re</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">findall(</span><span style="color: #e6db74">&quot;[a-z]&quot;</span><span style="color: #f8f8f2">,s</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">lower())))</span><span style="color: #f92672">==</span><span style="color: #ae81ff">26</span>
 </pre></div>
   <div class="container">
-    <h4><b>the code above checks if the given sentence is pangram or not -meaning does the sentence contain all the letters in a language- ; first the letters are converted to all lower case, then only the letters are taken from this sentence into a list, we can get unique values by using set, finally if the unique values count is 26 then it is a pangram.
-    </b></h4> 
+    <h3><b>the code above checks if the given sentence is pangram or not -meaning does the sentence contain all the letters in a language- ; first the letters are converted to all lower case, then only the letters are taken from this sentence into a list, we can get unique values by using set, finally if the unique values count is 26 then it is a pangram.
+    </b></h3> 
  
   </div>
  </div>
