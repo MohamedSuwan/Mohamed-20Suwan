@@ -177,7 +177,7 @@ liners “Pythonic way”
 </pre></div>
 
  ...............................................
- <!-- HTML generated using hilite.me --><div style="background: #272822; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><table><tr><td><pre style="margin: 0; line-height: 125%">1
+ <!-- HTML generated using hilite.me --><div style="background: #272822; overflow:auto;width:auto"><table><tr><td><pre style="margin: 0; line-height: 125%">1
 2
 3
 4
