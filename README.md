@@ -2,9 +2,9 @@
 <link rel="stylesheet" href="style.css">
 <meta name="Author" content="Mohamed Suwan">
 <meta name="Description" content="Portfolio">
-<head>
+<header>
  <h1>where am I</h1>
- </head>
+ </header>
 <!-- ...................................................................................................... first main div -->
 
 <div class="card">
