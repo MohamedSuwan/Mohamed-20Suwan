@@ -166,19 +166,20 @@ liners “Pythonic way”
   <!-- ...................................................................................... sub div 3.1 -->
 <center>
  <div class="cardimg">
-  <!-- HTML generated using hilite.me --><div style="background: #272822; overflow:auto;width:auto"><pre style="margin: 0; line-height: 125%"><span style="color: #f92672">import</span> <span style="color: #f8f8f2">re</span>
+  <!-- HTML generated using hilite.me --><div style="background: #272822; overflow:auto;width:auto;border:0-moz-border-radius: 10px;border-radius: 10px"><pre style="margin: 0; line-height: 125%"><span style="color: #f92672">import</span> <span style="color: #f8f8f2">re</span>
 <span style="color: #66d9ef">def</span> <span style="color: #a6e22e">is_pangram</span><span style="color: #f8f8f2">(s):</span>
     <span style="color: #66d9ef">return</span> <span style="color: #f8f8f2">len(set(re</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">findall(</span><span style="color: #e6db74">&quot;[a-z]&quot;</span><span style="color: #f8f8f2">,s</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">lower())))</span><span style="color: #f92672">==</span><span style="color: #ae81ff">26</span>
 </pre></div>
   <div class="container">
-    <h4><b>Power BI Desktop View</b></h4> 
+    <h4><b>the code above checks if the given sentence is pangram or not -meaning does the sentence contain all the letters in a language- ; first the letters are converted to all lower case, then only the letters are taken from this sentence into a list, we can get unique values by using set, finally if the unique values count is 26 then it is a pangram.
+    </b></h4> 
  
   </div>
  </div>
  <br>
   <!-- ...................................................................................... sub div 3.2 -->
   <div class="cardimg">
- <!-- HTML generated using hilite.me --><div style="background: #272822; overflow:auto;width:auto"><pre style="margin: 0; line-height: 125%"><span style="color: #66d9ef">def</span> <span style="color: #a6e22e">is_triangle</span><span style="color: #f8f8f2">(a,</span> <span style="color: #f8f8f2">b,</span> <span style="color: #f8f8f2">c):</span>
+ <!-- HTML generated using hilite.me --><div style="background: #272822; overflow:auto;width:autoborder:0-moz-border-radius: 10px;border-radius: 10px"><pre style="margin: 0; line-height: 125%"><span style="color: #66d9ef">def</span> <span style="color: #a6e22e">is_triangle</span><span style="color: #f8f8f2">(a,</span> <span style="color: #f8f8f2">b,</span> <span style="color: #f8f8f2">c):</span>
     <span style="color: #f8f8f2">tl</span><span style="color: #f92672">=</span><span style="color: #f8f8f2">(sorted([a,b,c]))</span>
     <span style="color: #66d9ef">if</span> <span style="color: #f92672">not</span><span style="color: #f8f8f2">(any(tl)</span><span style="color: #f92672">&gt;</span><span style="color: #ae81ff">1</span><span style="color: #f8f8f2">):</span>
         <span style="color: #66d9ef">if</span> <span style="color: #f8f8f2">tl[</span><span style="color: #ae81ff">0</span><span style="color: #f8f8f2">]</span><span style="color: #f92672">+</span><span style="color: #f8f8f2">tl[</span><span style="color: #ae81ff">1</span><span style="color: #f8f8f2">]</span><span style="color: #f92672">&gt;</span><span style="color: #f8f8f2">tl[</span><span style="color: #ae81ff">2</span><span style="color: #f8f8f2">]:</span>
@@ -189,37 +190,15 @@ liners “Pythonic way”
         <span style="color: #ffb300">return</span> <span style="color: #66d9ef">False</span>
 </pre></div>
    <div class="container">
-    <h4><b>Power BI Desktop View</b></h4> 
+    <h3><b>This code is a solution for the triangle inequality theorem which describes the relationship between the three sides of a triangle. According to this theorem, for any triangle, the sum of lengths of two sides is always greater than the third side</b></h3> 
   </div>
  </div>
  
   <br>
     
-</div>
 
-</center>
-<br>
-```python
-import re
-def is_pangram(s):
-    return len(set(re.findall("[a-z]",s.lower())))==26
-```
-<h3>the code above checks if the given sentence is pangram or not -meaning does the sentence contain all the letters in a language- ; first the letters are converted to all lower case, then only the letters are taken from this sentence into a list, we can get unique values by using set, finally if the unique values count is 26 then it is a pangram.
-    </h3>
-```python
-def is_triangle(a, b, c):
-    tl=(sorted([a,b,c]))
-    if not(any(tl)>1):
-        if tl[0]+tl[1]>tl[2]:
-            return True
-        else:
-            return False
-    else:
-        return False
-```
-<h3>
-This code is a solution for the triangle inequality theorem which describes the relationship between the three sides of a triangle. According to this theorem, for any triangle, the sum of lengths of two sides is always greater than the third side
-</h3>
+
+
 
 <br>
 <br>
