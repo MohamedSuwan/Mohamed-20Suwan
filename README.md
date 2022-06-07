@@ -177,6 +177,7 @@ liners “Pythonic way”
   </div>
  </div>
  <br>
+ <br>
   <!-- ...................................................................................... sub div 3.2 -->
   <div class="cardimg">
  <!-- HTML generated using hilite.me --><div style="background: #272822; overflow:auto;width:autoborder:0-moz-border-radius: 10px;border-radius: 10px"><pre style="margin: 0; line-height: 125%"><span style="color: #66d9ef">def</span> <span style="color: #a6e22e">is_triangle</span><span style="color: #f8f8f2">(a,</span> <span style="color: #f8f8f2">b,</span> <span style="color: #f8f8f2">c):</span>
