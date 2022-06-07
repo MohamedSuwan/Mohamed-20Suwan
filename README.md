@@ -244,6 +244,6 @@ Autoamtion, controlling the computer, mouse, keyboard, making a macro-like proce
 <br>
 <br>
 <br>
-<h3>Thank you for your time  &#10084;&#65039;
+<h3>Maintained By Mohamed Suwan With &#10084;&#65039;</h3>
 <br>
                         
